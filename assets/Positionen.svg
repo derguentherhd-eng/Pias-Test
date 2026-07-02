@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 260.7 526.1">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <image id="oben_links" class="st1" width="1080" height="1920" transform="translate(1.5 65.3) scale(.2)" xlink:href="../../../../../../Downloads/Wieland Hoehle/Regal 1.png"/>
+  <image id="oben_rechts" class="st1" width="1080" height="1920" transform="translate(1.5 65.3) scale(.2)" xlink:href="../../../../../../Downloads/Wieland Hoehle/Regal 2.png"/>
+  <image id="Mittenbrett" class="st1" width="1080" height="1920" transform="translate(1.5 65.3) scale(.2)" xlink:href="../../../../../../Downloads/Wieland Hoehle/Regal 3.png"/>
+  <image id="unten_links" class="st1" width="1080" height="1920" transform="translate(1.5 65.3) scale(.2)" xlink:href="../../../../../../Downloads/Wieland Hoehle/Regal 4.png"/>
+  <image id="Unten_rechts" class="st1" width="1080" height="1920" transform="translate(1.5 65.3) scale(.2)" xlink:href="../../../../../../Downloads/Wieland Hoehle/Regal 5.png"/>
+  <rect id="Box_oben_links" class="st0" x="13.9" y="111.7" width="130.4" height="66.9"/>
+  <rect id="Box_Mitte" class="st0" x="20.8" y="214.4" width="222.7" height="66.9"/>
+  <rect id="Box_unten_links" class="st0" x="15.7" y="314.8" width="93.8" height="66.9"/>
+  <rect id="Box_unten_rechts" class="st0" x="116.8" y="315.6" width="131.1" height="66.9"/>
+  <rect id="Box_oben_rechts" class="st0" x="157.7" y="112.4" width="89" height="66.9"/>
+  <image id="Fotoleine" class="st1" width="1080" height="227" transform="scale(.2)" xlink:href="../../../../../../Downloads/OneDrive_1_25.6.2026/Fotoleine.PNG"/>
+  <path id="Leinenvektor" class="st0" d="M0,13.4c18.3,11.1,63.3,35,125.2,34.5,66.4-.6,113.4-29,130.9-40.9"/>
+  <rect id="zahl_oben_links" class="st0" x="66.1" y="149.5" width="25.9" height="14.1"/>
+  <rect id="zahl_oben_rechts" class="st0" x="186.3" y="148.6" width="25.5" height="15.4"/>
+  <rect id="zahl_mitte" class="st0" x="110.4" y="252.2" width="25.9" height="14"/>
+  <rect id="zahl_unten_links" class="st0" x="48.1" y="352.7" width="25.5" height="14"/>
+  <rect id="zahl_unten_rechts" class="st0" x="167" y="353.1" width="25.5" height="13.6"/>
+</svg>
